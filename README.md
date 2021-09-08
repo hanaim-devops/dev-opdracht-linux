@@ -9,7 +9,7 @@
 > - **US-3**. Als docent wil ik dat minstens 4 'should' user stories  implementeert zodat niet alles belangrijk is, maar de student wel bepaalde inspanning moet leveren :)
 > - **US-4**. Als docent wil ik dat student het script de naam `<student-naam>.sh` of `student-naam>-script.sh`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zetten bij nakijken
 
-<sup>*</sup>Je mag de extensie `.sh` ook weglaten als je dit [logischer vindt (dit lijkt i.i.g. wel de consensus in Unix/Linux wereld)](https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension)).
+<sup>*</sup>Je mag de extensie `.sh` ook weglaten als je dit [logischer vindt](https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension) (dit lijkt dus inmiddels wel de consensus in Unix/Linux wereld).
 
 ## Should
 
