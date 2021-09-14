@@ -18,10 +18,10 @@
 > - **US-6A**. Als gebruiker wil ik dat het script het aantal bestanden in de huidige directory laat zien, zodat ik idee krijg hoe groot deze is
 > - **US-6B**. Als gebruiker wil ik dat het script hierbij ook de huidige directory naam laat zien, zodat ik deze kan verifieren
 > - **US-7A**. Als gebruiker wil ik dat het script de huidige hostname laat zien
-> - **US7B. Als gebruiken wil ik dat het script hierbij ook het ip adres van systeem laat zien
+> - **US7B.** Als gebruiken wil ik dat het script hierbij ook het ip adres van systeem laat zien
 > - **US-8A**. Als gebruiker wil ik dat het script output van alle gekozen user stories laat zien via een --all optie
 > - **US-8B**. Als docent wil ik dat je opties kunt kiezen via logisch genaamde parameters
 
 ## Could/Wannahaves
 
-> - Als het makkelijk gaat en je zelf logische/leuke extra features weet mag je deze toevoegen voor bonuspunten/kudo's. Voeg deze ook wel toe in de hulp functie, en schrijf zelf user stories inclusief `zodat` deel als functionele toelichting.
+> - **US-9** Als het makkelijk gaat en je zelf logische/leuke extra features weet mag je deze toevoegen voor bonuspunten/kudo's. Voeg deze ook wel toe in de hulp functie, en schrijf zelf user stories inclusief `zodat` deel als functionele toelichting.
