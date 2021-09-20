@@ -2,9 +2,9 @@
 
 ## User stories bij bash opdracht Linux
 
-Auteur: Bart van der Wal
-*Datum: 8 september 2022*
-*Edited 20-9-2022 voor de 2023 editie*
+- Auteur: Bart van der Wal
+- *Datum: 8 september 2022*
+- *Edited 20-9-2022 voor de 2023 editie*
 
 ### Must
 
