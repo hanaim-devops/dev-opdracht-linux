@@ -11,14 +11,15 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 
 ### Must
 
-- [ ] **US-1** Als docent wil ik dat een DevOps student een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
-- [ ] **US-2A** Als docent wil ik dat student het script Nederlandstalige hulp en optienamen geeft zodat student een voorproefje krijgt van deze DDD-conventie
+- [ ] **US-1A** Als docent wil ik dat een DevOps student een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
+- [ ] **US-1B** Als docent wil ik dat dit een echt CLI programma wordt, dat dus opties/argumenten direct op de command line accepteert (en NIET een dialoog met gebruiker, hoogstens als uitbreiding) zodat iemand het gemaakte script in eigen scripts kan hergebruiken (compositie) 
+- [ ] **US-2A** Als docent wil ik dat student het script Nederlandstalige optie- en flagnamen geeft (bv. `-h` en `--hostnaam`) zodat de student een voorproefje krijgt van deze DDD-conventie
 - [ ] **US-2B** Als gebruiker wil ik dat het script zelf uitlegt wat het doet/kan als je geen parameters meegeeft (of evt `--help`) zodat ik geen externe documentatie hoef te krijgen/lezen
 - [ ] **US-3** Als docent wil ik dat minstens 4 'should' user stories  implementeert zodat 'niet alles belangrijk is' en er verschillende uitwerkingen van deze uitwerking en de student wel bepaalde minimale inspanning moet leveren
-- [ ] **US-4A** Als docent wil ik dat de student het script de naam `<student-naam>.sh` of `student-naam>-script.sh`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zetten bij het nakijken
+- [ ] **US-4A** Als docent wil ik dat de student het script de naam `<student-naam>` of `student-naam>-script`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zetten bij het nakijken
 - [ ] **US-4B** Als docent wil ik dat de student het gemaakte script in een zelf aangemaakte privé repo zet, en deze een eigen, korte maar duidelijke en volledige [README](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme) geeft, inclusief een kopje met  de afgevinkte user stories uit deze lijst, zodat de repo zelfbeschrijvend is, de beoordelaar beschreven stappen domweg kan uitvoeren om het script te executeren, en de zonder README wellicht verborgen/impliciete dependencies kan terughalen zoals het gebruikte Linux distributie, versienummer en shell type
 
-<sup>*</sup>Je mag de extensie `.sh` ook weglaten als je dit [logischer vindt](https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension) (dit lijkt dus wel de consensus in Unix/Linux wereld).
+<sup>*</sup>Je mag ook een extensie `.sh` geven als je dit [handiger vindt](https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension) (maar zonder extensie is wel de consensus in de Unix/Linux wereld (extra vraag: waarom zou dit zo zijn?)).
 
 ## Should
 
