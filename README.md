@@ -27,10 +27,10 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 - [ ] **US-5B** Als gebruiker wil ik dat het script ook de naam van huidige gebruiker laat zien, zodat ik deze kan veriferen
 - [ ] **US-6A** Als gebruiker wil ik dat het script het aantal bestanden in de huidige folder laat zien, zodat ik idee krijg hoe groot deze is
 - [ ] **US-6B** Als gebruiker wil ik dat het script hierbij ook de huidige folder naam laat zien, zodat ik deze kan verifieren
-- [ ] **US-7A** Als gebruiker wil ik dat het script de huidige hostname laat zien
-- [ ] **US-7B** Als gebruiken wil ik dat het script hierbij ook het ip adres van het systeem laat zien
-- [ ] **US-8A** Als docent wil ik dat je geimplementeerde features los van elkaar kunt kiezen via command line opties met logische én semantische namen
-- [ ] **US-8B** Als gebruiker wil ik dat het script output van alle geimplementeerde user stories laat zien via een '--alles' optie
+- [ ] **US-7A** Als gebruiker wil ik dat het script de huidige hostname laat zien, zodat ik deze kan verifieren
+- [ ] **US-7B** Als gebruiken wil ik dat het script hierbij ook het ip adres van het systeem laat zien zodat ik deze kan verifieren
+- [ ] **US-8A** Als docent wil ik dat je geimplementeerde features los van elkaar kunt kiezen via command line opties met logische én semantische namen zodat het script te gebruiken is in ander script (compositie)
+- [ ] **US-8B** Als gebruiker wil ik dat het script de output van alle geimplementeerde user stories laat zien via een '--alles' optie, zodat ik als beoordelaar snel alles in 1 keer dfe output kan verifieren
 
 ## Could/Wannahaves
 
