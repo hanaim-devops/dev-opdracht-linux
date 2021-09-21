@@ -12,7 +12,7 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 ### Must
 
 - [ ] **US-1A** Als docent wil ik dat een DevOps student een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
-- [ ] **US-1B** Als docent wil ik dat dit een echt CLI programma wordt, dat dus opties/argumenten direct op de command line accepteert (en NIET een dialoog met gebruiker, hoogstens als uitbreiding) zodat iemand het gemaakte script in eigen scripts kan hergebruiken (compositie) 
+- [ ] **US-1B** Als docent wil een echt 'CLI programma' wordt, dus die [command line opties](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_option) van de gebruiker accepteert (en dus NIET een dialoog vom met gebruiker, hoogstens als uitbreiding) zodat iemand het gemaakte script in eigen scripts kan hergebruiken (compositie) 
 - [ ] **US-2A** Als docent wil ik dat student het script Nederlandstalige optie- en flagnamen geeft (bv. `-h` en `--hostnaam`) zodat de student een voorproefje krijgt van deze DDD-conventie
 - [ ] **US-2B** Als gebruiker wil ik dat het script zelf uitlegt wat het doet/kan als je geen parameters meegeeft (of evt `--help`) zodat ik geen externe documentatie hoef te krijgen/lezen
 - [ ] **US-3** Als docent wil ik dat minstens 4 'should' user stories  implementeert zodat 'niet alles belangrijk is' en er verschillende uitwerkingen van deze uitwerking en de student wel bepaalde minimale inspanning moet leveren
