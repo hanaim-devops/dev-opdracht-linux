@@ -6,8 +6,6 @@
 - *Datum: 8 september 2022*
 - *Edited 20-9-2022, ook vast voor de 2023 editie, met eigen README en in het Nederlands*
 
-**29 september 2021: Er is nu een nieuwe opdracht Linux script voor de herkansers: zie [herkansing.md](herkansing.md).**
-
 De user stories hieronder vertellen op zich het hele verhaal over het te schrijven script.
 Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters-your-guide-to-using-shellcheck-for-top-quality-scripts/) gebruiken voor Linting; deze heeft ook een [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck).
 
