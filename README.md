@@ -18,6 +18,8 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 - [ ] **US-3** Als docent wil ik dat minstens 4 'should' user stories  implementeert zodat 'niet alles belangrijk is' en er verschillende uitwerkingen van deze uitwerking en de student wel bepaalde minimale inspanning moet leveren
 - [ ] **US-4A** Als docent wil ik dat de student het script de naam `<student-naam>` of `student-naam>-script`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zetten bij het nakijken
 - [ ] **US-4B** Als docent wil ik dat de student het gemaakte script in een zelf aangemaakte privé repo zet, en deze een eigen, korte maar duidelijke en volledige [README](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme) geeft, inclusief een kopje met  de afgevinkte user stories uit deze lijst, zodat de repo zelfbeschrijvend is, de beoordelaar beschreven stappen domweg kan uitvoeren om het script te executeren, en de zonder README wellicht verborgen/impliciete dependencies kan terughalen zoals het gebruikte Linux distributie, versienummer en shell type
+- [ ] **US-5** Als gebruiker wil ik dat het script de output van alle geimplementeerde user stories laat zien via een '--alles' optie, zodat ik als beoordelaar snel in 1 keer alle output kan verifieren
+
 
 <sup>*</sup>Je mag ook een extensie `.sh` geven als je dit [handiger vindt](https://stackoverflow.com/questions/27813563/what-is-the-bash-file-extension) (maar zonder extensie is wel de consensus in de Unix/Linux wereld (extra vraag: waarom zou dit zo zijn?)).
 
@@ -30,7 +32,6 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 - [ ] **US-7A** Als gebruiker wil ik dat het script de huidige hostname laat zien, zodat ik deze kan verifieren
 - [ ] **US-7B** Als gebruiken wil ik dat het script hierbij ook het ip adres van het systeem laat zien zodat ik deze kan verifieren
 - [ ] **US-8A** Als docent wil ik dat je geimplementeerde features los van elkaar kunt kiezen via command line opties met logische én semantische namen zodat het script te gebruiken is in ander script (compositie)
-- [ ] **US-8B** Als gebruiker wil ik dat het script de output van alle geimplementeerde user stories laat zien via een '--alles' optie, zodat ik als beoordelaar snel alles in 1 keer dfe output kan verifieren
 
 ## Could/Wannahaves
 
