@@ -26,7 +26,7 @@ Je kunt [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters
 ## Should
 
 - [ ] **US-5A** Als gebruiker wil ik dat het script het aantal subfolders van de [home](https://nl.wikipedia.org/wiki/Homedirectory) folder toont, zodat ik een beeld krijg hoe uitgebreid dit is
-- [ ] **US-5B** Als gebruiker wil ik dat het script ook de naam van huidige gebruiker laat zien, zodat ik deze kan veriferen
+- [ ] **US-5B** Als gebruiker wil ik dat het script ook de naam van huidige gebruiker laat zien, zodat ik deze kan verifiëren
 - [ ] **US-6A** Als gebruiker wil ik dat het script het aantal bestanden in de huidige folder laat zien, zodat ik idee krijg hoe groot deze is
 - [ ] **US-6B** Als gebruiker wil ik dat het script hierbij ook de huidige folder naam laat zien, zodat ik deze kan verifieren
 - [ ] **US-7A** Als gebruiker wil ik dat het script de huidige hostname laat zien, zodat ik deze kan verifieren
