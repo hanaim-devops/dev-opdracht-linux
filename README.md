@@ -1,8 +1,8 @@
 # Dev Opdracht Linux - Bash opdracht Linux
 
-- Auteur: Bart van der Wal
-- *Datum: 8 september 2022*
-- *Edited 20-9-2022, ook vast voor de 2023 editie, met eigen README en in het Nederlands*
+- *Auteur*: Bart van der Wal
+- *Datum*: 8 september 2022
+- *Laatste edit*: 19-4-2024 voor de 2024 editie, opdracht nu in duo's, extra opdrachten
 
 De user stories hieronder vertellen op zich het hele verhaal over het te schrijven script.
 
