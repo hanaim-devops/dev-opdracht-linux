@@ -2,24 +2,24 @@
 
 - *Auteur*: Bart van der Wal
 - *Datum*: 8 september 2022
-- *Laatste edit*: 19-4-2024 voor de 2024 editie, opdracht nu in duo's, extra opdrachten
+- *Laatste edit*: 19-4-2024 voor de 2024 editie, opdracht vanaf nu in duo's, extra opdrachten
 
-De user stories hieronder vertellen op zich het hele verhaal over het te schrijven script.
+De user stories hieronder vertellen op zich het hele verhaal over het te schrijven script. Verdeel de user stories gelijkmatig over de twee studenten en volg de ['werkwijze week-opdrachten'](https://minordevops.nl/week-opdrachten.html) met het aanmaken van planbord/issues voor de taken en het committen op de issues.
 
 - Gebruik als linter [shell check](https://www.exasol.com/resource/ghost-in-the-shell-busters-your-guide-to-using-shellcheck-for-top-quality-scripts/) voor - Linting/kwaliteitssuggesties voor je bash script. Deze heeft ook een [VS Code extensie](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck).
 - Lever deze opdracht (ivm accreditatie) in via upload naar iSAS, en zet deze in een zip in een aparte folder `dev-opdracht-linux` direct in de root van de zip (naast andere Dev BP's, zoals de blog die je later schrijft).
 
 ### MUST User Stories
 
-- [ ] **US-1** Als docent wil ik dat een DevOps student een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
+- [ ] **US-1** Als docent wil ik dat een DevOps student aan een Linux bash script schrijft zodat deze laat zien over basis Linux vaardigheden te beschikken
 - [ ] **US-2** Als docent wil ik dat het een echt 'CLI programma' wordt, dus die [command line opties](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_option) van de gebruiker accepteert (en dus NIET een dialoogvorm met gebruiker, hoogstens als uitbreiding) zodat iemand het gemaakte script in eigen scripts kan hergebruiken (compositie) 
-- [ ] **US-3** Als docent wil ik dat een student het script Nederlandstalige optie- en flagnamen geeft (bv. `-h` en `--hostnaam`) zodat de student een voorproefje krijgt van deze DDD-conventie
+- [ ] **US-3** Als docent wil ik dat studenten het script Nederlandstalige optie- en flagnamen geeft (bv. `-h` en `--hostnaam`) zodat de student een voorproefje krijgt van deze DDD-conventie
 - [ ] **US-4** Als gebruiker wil ik dat het script zelf uitlegt wat het doet/kan als je geen parameters meegeeft (of evt `--help`) zodat ik geen externe documentatie hoef te krijgen/lezen
 - [ ] **US-5** Als docent wil ik dat je minstens 4 'should' user stories  implementeert zodat 'niet alles belangrijk is' en er verschillende uitwerkingen van deze uitwerking en de student wel bepaalde minimale inspanning moet leveren
-- [ ] **US-6** Als docent wil ik dat de student het script de naam `<student-naam>` of `student-naam>-script`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zet bij het nakijken
+- [ ] **US-6** Als docent wil ik dat de student het script de naam `<student-naam>-1-student-naam-2` of `student-naam-1-student-naam-2>-script`<sup>*</sup> geeft zodat ik snel kan zien wiens script van wie is als ik alle gemaakt scripts bij elkaar in een folder zet bij het nakijken
 - [ ] **US-7** Als gebruiker wil ik dat het script de output van alle geimplementeerde user stories laat zien via een '--alles' optie, zodat ik als beoordelaar snel in 1 keer alle output kan verifieren
 - [ ] **US-8** Als docent wil ik dat je geimplementeerde features los van elkaar kunt kiezen via command line opties met logische én semantische namen zodat het script te gebruiken is in ander script (compositie)
-- [ ] **US-9** Als docent wil ik dat de student de volgende standaarden aanhoudt, zodat de repo vindbaar is en zelfbeschrijvend is, en de beoordelaar de in README.md beschreven stappen domweg kan uitvoeren om het script te executeren/testen
+- [ ] **US-9** Als docent wil ik dat elke student de volgende standaarden aanhoudt, zodat de repo vindbaar is en zelfbeschrijvend is, en de beoordelaar de in README.md beschreven stappen domweg kan uitvoeren om het script te executeren/testen
       - **US-9a** het gemaakte script staat in een zelf aangemaakte privé repo
       - **US-9b** heeft een eigen, korte maar duidelijke en volledige [README volgens Microsoft standaard](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme) 
       - **US-9c** bevat een kopje `User Stories` met hierin de afgevinkte user stories uit deze lijst met 'markdown checkboxes' (GitHub flavoured markdown feature)
