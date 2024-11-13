@@ -16,16 +16,18 @@ Decodeert deze naar:
 03. Willem-Alexander – Water management
 ```
 
-Geef het script als naam je eigen voornaam in piglatin. Als je naam bv.
+Geef het script als naam je eigen voornaam in piglatin.
 
 Zet dit in een prive repo. En maak hierin ook een README.md aan in je repo die de gebruiker aangeeft hoe het te testen/beoordelen.
+
 Doe dit volgens de [regels voor readme van Microsoft](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops), met in ieder geval een `Intro` en een (Help your users) `Get started` kopje erin.
 
 > "Run through the instructions as you write them in order to verify the instructions would work." - Microsoft, Vijay Machiraju et al. 14 maart 2018
 
 >chmod + x igpay
 
-Hint: Gebruik sed gebruikt om met reguliere expressie en capture groups e.d. 
+Hint: Gebruik `sed` om met reguliere expressie en capture groups e.d. te werken.
+
 Merk op dat je script de onderzoeksonderwerpen, nummering en tussen m-dash verder in tact laat.
 Het moet uiteraard werken op een willekeurige lijst, niet alleen op deze. Maak zelf een 2e test lijst en decodeer deze eerst handmatig.
 Merk uit voorgaande voorbeeld bv. op dat er ook nog wat met de hoofdletters moet gebeuren. Bewaar dit echter voor het laatste.
@@ -36,15 +38,15 @@ Graag opsplitsen in deelfuncties met logische naam. Reguliere expressie code is 
 
 Het aangeraden artikel voor 'sed' schijnt het — wel wat outdated ogende — [artikel van Bruce Barnett](https://www.grymoire.com/Unix/Sed.html) te zijn.
 
-Bonus:
-- ook mogelijk maakt input te encoden via een flag `--encode` of optie `-e`.
-- De default flag is `–decode` of `-d`. Bij missende input krijg je hulp functie. 
-- Help functie met bericht
-- Help bericht ook sturen als GEEN parameters worden meegegeven
-- Extra bonus: Ook standard input accepteren via pipe of redirect: cat onderzoeksonderwerpen > igpay
+Als je klaar bent vorg dan nog 2 van onderstaande features toe:
+
+1. ook mogelijk om input te encoden via een flag `--encode` of optie `-e`.
+2. De default flag is `–decode` of `-d`. Bij missende input krijg je hulp functie. 
+3. Help functie met bericht
+4. Help bericht ook sturen als GEEN parameters worden meegegeven
+5. Extra bonus: Ook standard input accepteren via pipe of redirect: cat onderzoeksonderwerpen > igpay
 
 ```bash
 Missende parameters
 Gebruik: igpay [-d | --decode] [-e | --encode] [-h | --help] file
 ```
-
