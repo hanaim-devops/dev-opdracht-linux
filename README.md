@@ -2,7 +2,7 @@
 
 - *Auteur*: Bart van der Wal
 - *Datum*: 8 september 2022
-- *Laatste edit*: 19-4-2024 voor de 2024 editie, opdracht vanaf nu in duo's, extra opdrachten
+- *Laatste edit*: 8-12-2024 na inleveren van 2024 editie's, opdracht dus in duo's, formulering nog aangescherpt, en 6 user stories per student
 
 De user stories hieronder vertellen op zich het hele verhaal over het te schrijven script. Verdeel de user stories gelijkmatig over de twee studenten en volg de ['werkwijze week-opdrachten'](https://minordevops.nl/week-opdrachten.html) met het aanmaken van planbord/issues voor de taken en het committen op de issues.
 
